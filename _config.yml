@@ -111,11 +111,11 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
       - Gaming
       - Biking
       - Walking
       - Air soft
+      - Rock climbing
 
 # Footer
 footer_show_references: true
