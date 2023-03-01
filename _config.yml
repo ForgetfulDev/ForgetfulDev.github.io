@@ -1,0 +1,130 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Wesley Wichman
+title: Software Developer
+email: wesley_wichman@live.com
+website: https://github.com/ForgetfulDev
+
+# Dark Mode (true/false/never)
+darkmode: true
+
+# Social links
+# twitter_username: facespics
+github_username:  ForgetfulDev
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jameswgrant
+# linkedin_username: jameswgrant
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+# additional_links:
+# - title: itsgoingto.be
+  # icon: fas fa-globe
+  # url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+I am a highly skilled full stack developer with over four years of experience working at a startup. Throughout my time with the company, I have had the opportunity to grow alongside it and take on various roles required for software development. I have experience with both front-end and back-end technologies, including Vue, Laravel, and AWS.
+I have worked on multiple projects throughout my time at the company, from private to government and public sectors. I take pride in my ability to identify problems and provide solutions that streamline workflows, save time, and increase efficiency. Through these projects, I have gained a deep understanding of software development and improved my skills in project management, teamwork, security, and infrastructure management.
+I am always eager to learn and stay up-to-date with the latest technologies and trends in the industry. In addition to my skills as a full stack developer, I am also interested in branching out into other areas such as DevOps, React, and AI. I am passionate about software development and take great pride in my ability to deliver high-quality solutions that meet the needs of both clients and end-users.
+content:
+  # - title: Projects # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: top-middle
+  #       title: Super awesome project
+  #       link: github.com/sproogen
+  #       # link_text: Project Website
+  #       additional_links:
+  #         - title:  sproogen/modern-resume-theme
+  #           icon: fab fa-github
+  #           url: github.com/sproogen/modern-resume-theme
+  #         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+  #         #   icon: fab fa-github
+  #         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+  #       quote: >
+  #         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  #       description: | # this will include new lines to allow paragraphs
+  #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Entuitive
+        link: entuitive.co.nz
+        sub_title: Software Developer
+        caption: December 2018 - Present
+        quote: >
+          We create new, intuitive software and technology that reduces time, cost and environmental impacts
+        description: | # this will include new lines to allow paragraphs
+          - Designing, developing and maintaining software solutions using Vue, Laravel, and AWS.
+          - Using terraform to manage infrastructure in a transition to IAC
+          - Working collaboratively with project managers, designers, and other team members to ensure timely delivery of high-quality products.
+          - Collaborating with other developers to meet the project requirements.
+          - Identifying and resolving technical problems, bugs, and issues.
+          - Ensuring the security and stability of our software solutions.
+          - Managing and maintaining infrastructure to ensure that our systems are always up-to-date and secure.
+          - Participating in code reviews, testing, and deployment processes.
+          - Continuously learning and staying up-to-date with the latest technologies and trends in the industry.
+          - Contributing to the growth of the company by identifying opportunities to improve processes and increase efficiency.
+          - Working on multiple projects, from private, government, and company offerings.
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Ara Institute of Canterbury (Formerly CPIT)
+        caption: 2015 - 2018
+        sub_title: Bachelor of Information and Communication Technologies
+        description: | # this will include new lines to allow paragraphs
+          During my time at Ara Institute of Canterbury, I completed a comprehensive program that provided me with a broad foundation within the IT industry. I gained hands-on experience with programming languages, databases, networking, design, and web development tools, which helped me develop the skills necessary to excel as a full stack developer.
+          As part of my coursework, I worked on several projects that helped me hone my skills. For example, for my student project, I worked on a proof-of-concept project which involved using a fingerprint scanner to allow people to check-in at multiple locations. This project helped me develop my skills in database management, mobile application development, and security.
+          Overall, my education at Ara Institute of Canterbury prepared me well for a career in software development and helped me develop the technical and analytical skills necessary to succeed as a full stack developer. 
+
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Rock climbing
+      - Gaming
+      - Biking
+      - Walking
+      - Air soft
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
