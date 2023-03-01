@@ -10,40 +10,9 @@ name: Wesley Wichman
 title: Software Developer
 email: wesley_wichman@live.com
 website: https://github.com/ForgetfulDev
-
 # Dark Mode (true/false/never)
 darkmode: true
-
-# Social links
-# twitter_username: facespics
 github_username: ForgetfulDev
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jameswgrant
-# linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
-
-# Additional icon links
-# additional_links:
-# - title: itsgoingto.be
-# icon: fas fa-globe
-# url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
-
 # About Section
 # about_title: About Me
 # about_profile_image: images/profile.jpg
@@ -54,25 +23,6 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am always eager to learn and stay up-to-date with the latest technologies and trends in the industry. In addition to my skills as a full stack developer, I am also interested in branching out into other areas such as DevOps, React, and AI. I am passionate about software development and take great pride in my ability to deliver high-quality solutions that meet the needs of both clients and end-users.
 content:
-  # - title: Projects # Title for the section
-  #   layout: list # Type of content section (list/text)
-  #   content:
-  #     - layout: top-middle
-  #       title: Super awesome project
-  #       link: github.com/sproogen
-  #       # link_text: Project Website
-  #       additional_links:
-  #         - title:  sproogen/modern-resume-theme
-  #           icon: fab fa-github
-  #           url: github.com/sproogen/modern-resume-theme
-  #         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-  #         #   icon: fab fa-github
-  #         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-  #       quote: >
-  #         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-  #       description: | # this will include new lines to allow paragraphs
-  #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -108,8 +58,7 @@ content:
           As part of my coursework, I worked on several projects that helped me hone my skills. For example, for my student project, I worked on a proof-of-concept project which involved using a fingerprint scanner to allow people to check-in at multiple locations. This project helped me develop my skills in database management, mobile application development, and security.
 
           Overall, my education at Ara Institute of Canterbury prepared me well for a career in software development and helped me develop the technical and analytical skills necessary to succeed as a full stack developer.
-
-  - title: A Little More About Me
+  - title: A Tad More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
@@ -118,7 +67,6 @@ content:
       - Walking
       - Air soft
       - Rock climbing
-
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
