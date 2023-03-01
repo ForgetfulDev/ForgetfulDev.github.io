@@ -3,7 +3,7 @@ repository: ForgetfulDev.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
-version: 3
+version: 3=4
 
 # Personal info
 name: Wesley Wichman
@@ -104,7 +104,9 @@ content:
         sub_title: Bachelor of Information and Communication Technologies
         description: | # this will include new lines to allow paragraphs
           During my time at Ara Institute of Canterbury, I completed a comprehensive program that provided me with a broad foundation within the IT industry. I gained hands-on experience with programming languages, databases, networking, design, and web development tools, which helped me develop the skills necessary to excel as a full stack developer.
+
           As part of my coursework, I worked on several projects that helped me hone my skills. For example, for my student project, I worked on a proof-of-concept project which involved using a fingerprint scanner to allow people to check-in at multiple locations. This project helped me develop my skills in database management, mobile application development, and security.
+
           Overall, my education at Ara Institute of Canterbury prepared me well for a career in software development and helped me develop the technical and analytical skills necessary to succeed as a full stack developer.
 
   - title: A Little More About Me
