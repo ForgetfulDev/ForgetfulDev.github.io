@@ -46,7 +46,7 @@ github_username: ForgetfulDev
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+# about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am a highly skilled full stack developer with over four years of experience working at a startup. Throughout my time with the company, I have had the opportunity to grow alongside it and take on various roles required for software development. I have experience with both front-end and back-end technologies, including Vue, Laravel, and AWS.
 
@@ -99,7 +99,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Ara Institute of Canterbury (Formerly CPIT)
+        title: Ara Institute of Canterbury
         caption: 2015 - 2018
         sub_title: Bachelor of Information and Communication Technologies
         description: | # this will include new lines to allow paragraphs
