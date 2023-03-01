@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: ForgetfulDev.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -16,7 +16,7 @@ darkmode: true
 
 # Social links
 # twitter_username: facespics
-github_username:  ForgetfulDev
+github_username: ForgetfulDev
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -32,8 +32,8 @@ github_username:  ForgetfulDev
 # Additional icon links
 # additional_links:
 # - title: itsgoingto.be
-  # icon: fas fa-globe
-  # url: https://www.itsgoingto.be
+# icon: fas fa-globe
+# url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,9 +48,11 @@ github_username:  ForgetfulDev
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-I am a highly skilled full stack developer with over four years of experience working at a startup. Throughout my time with the company, I have had the opportunity to grow alongside it and take on various roles required for software development. I have experience with both front-end and back-end technologies, including Vue, Laravel, and AWS.
-I have worked on multiple projects throughout my time at the company, from private to government and public sectors. I take pride in my ability to identify problems and provide solutions that streamline workflows, save time, and increase efficiency. Through these projects, I have gained a deep understanding of software development and improved my skills in project management, teamwork, security, and infrastructure management.
-I am always eager to learn and stay up-to-date with the latest technologies and trends in the industry. In addition to my skills as a full stack developer, I am also interested in branching out into other areas such as DevOps, React, and AI. I am passionate about software development and take great pride in my ability to deliver high-quality solutions that meet the needs of both clients and end-users.
+  I am a highly skilled full stack developer with over four years of experience working at a startup. Throughout my time with the company, I have had the opportunity to grow alongside it and take on various roles required for software development. I have experience with both front-end and back-end technologies, including Vue, Laravel, and AWS.
+
+  I have worked on multiple projects throughout my time at the company, from private to government and public sectors. I take pride in my ability to identify problems and provide solutions that streamline workflows, save time, and increase efficiency. Through these projects, I have gained a deep understanding of software development and improved my skills in project management, teamwork, security, and infrastructure management.
+
+  I am always eager to learn and stay up-to-date with the latest technologies and trends in the industry. In addition to my skills as a full stack developer, I am also interested in branching out into other areas such as DevOps, React, and AI. I am passionate about software development and take great pride in my ability to deliver high-quality solutions that meet the needs of both clients and end-users.
 content:
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
@@ -103,7 +105,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           During my time at Ara Institute of Canterbury, I completed a comprehensive program that provided me with a broad foundation within the IT industry. I gained hands-on experience with programming languages, databases, networking, design, and web development tools, which helped me develop the skills necessary to excel as a full stack developer.
           As part of my coursework, I worked on several projects that helped me hone my skills. For example, for my student project, I worked on a proof-of-concept project which involved using a fingerprint scanner to allow people to check-in at multiple locations. This project helped me develop my skills in database management, mobile application development, and security.
-          Overall, my education at Ara Institute of Canterbury prepared me well for a career in software development and helped me develop the technical and analytical skills necessary to succeed as a full stack developer. 
+          Overall, my education at Ara Institute of Canterbury prepared me well for a career in software development and helped me develop the technical and analytical skills necessary to succeed as a full stack developer.
 
   - title: A Little More About Me
     layout: text
@@ -127,4 +129,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
